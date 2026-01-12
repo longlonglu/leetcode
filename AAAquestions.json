@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Two Sum",
+    "number": 1,
+    "file": "two-sum.md",
+    "difficulty": "Easy",
+    "tags": ["Array", "Hash Table"]
+  }
+]
