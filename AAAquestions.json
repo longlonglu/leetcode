@@ -5,7 +5,8 @@
     "file": "two-sum.md",
     "difficulty": "Easy",
     "tags": ["Array", "Hash Table"],
-    "last_reviewed": "2024-05-15"
+    "last_reviewed": "2024-05-15",
+    "company_tags": ["Google", "Amazon"]
   },
     {
     "title": "Binary Tree Level Order Traversal",
@@ -13,6 +14,7 @@
     "file": "binary-tree-level-order.md",
     "difficulty": "Medium",
     "tags": ["Tree", "Breadth-First Search"],
-    "last_reviewed": "2024-05-15"
+    "last_reviewed": "2024-05-15",
+    "company_tags": ["Google", "Amazon"]
   }
 ]
