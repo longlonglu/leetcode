@@ -5,5 +5,12 @@
     "file": "two-sum.md",
     "difficulty": "Easy",
     "tags": ["Array", "Hash Table"]
+  },
+    {
+    "title": "Binary Tree Level Order Traversal",
+    "number": 2,
+    "file": "binary-tree-level-order-traversal.md",
+    "difficulty": "Medium",
+    "tags": ["Tree", "Breadth-First Search"]
   }
 ]
