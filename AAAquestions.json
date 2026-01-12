@@ -4,13 +4,15 @@
     "number": 1,
     "file": "two-sum.md",
     "difficulty": "Easy",
-    "tags": ["Array", "Hash Table"]
+    "tags": ["Array", "Hash Table"],
+    "last_reviewed": "2024-05-15"
   },
     {
     "title": "Binary Tree Level Order Traversal",
     "number": 2,
     "file": "binary-tree-level-order.md",
     "difficulty": "Medium",
-    "tags": ["Tree", "Breadth-First Search"]
+    "tags": ["Tree", "Breadth-First Search"],
+    "last_reviewed": "2024-05-15"
   }
 ]
