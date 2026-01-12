@@ -9,7 +9,7 @@
     {
     "title": "Binary Tree Level Order Traversal",
     "number": 2,
-    "file": "binary-tree-level-order-traversal.md",
+    "file": "binary-tree-level-order.md",
     "difficulty": "Medium",
     "tags": ["Tree", "Breadth-First Search"]
   }
