@@ -21,10 +21,7 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
       t: item.title,
       n: item.questionFrontendId,
       d: item.difficulty,
-      f: "",
       g: item.topicTags ? item.topicTags.map(tag => tag.name) : [],
-      l: null
-      // Add more attributes here as needed
     }));
 
     // Write to output file
