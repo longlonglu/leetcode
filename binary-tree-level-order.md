@@ -4,6 +4,8 @@
 
 ## Problem Statement
 
+![img1](https://raw.githubusercontent.com/longlonglu/leetcode/main/images/Screenshot%202026-01-13%20at%2011.01.12.png)
+
 Given the `root` of a binary tree, return the **level order traversal** of its nodes' values (i.e., from left to right, level by level).
 
 ## Examples
